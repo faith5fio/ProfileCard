@@ -22,18 +22,12 @@ Creating
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![](./screenshot.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/faith5fio/ProfileCard)
+- Live Site URL: (https://basic-profilecard.pages.dev/)
 
 ## My process
 
@@ -54,10 +48,8 @@ I'd like to learn about using CSS properties so I don't have to copying and past
 
 ## Author
 
-- Website - [Faith](https://faith-io.pages.dev/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Instagram - [@faith5_io](https://www.twitter.com/yourusername)
-- Github - 
-
+- Website - [https://faith-io.pages.dev/]
+- Github - [https://github.com/faith5fio]
+- LinkedIn - [https://www.linkedin.com/in/faith-iyekeoretin-3973a2210]
 
 
